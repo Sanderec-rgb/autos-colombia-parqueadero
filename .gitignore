@@ -1,0 +1,28 @@
+# Dependencias
+node_modules/
+package-lock.json
+
+# Variables de entorno
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Cobertura de tests
+coverage/
+.nyc_output/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# Archivos temporales
+entrada.json
+salida.json
+dup.json
+*.tmp
